@@ -19,7 +19,7 @@ import Inputs from "./components/Inputs";
 // import CustomControls from "./components/CustomControls";
 // import Navigation from "./components/Navigation";
 // import JavascriptComponents from "./components/JavascriptComponents";
-// import Carousel from "./components/Carousel";
+import Carousel from "./components/Carousel";
 // import Icons from "./components/Icons";
 // import Examples from "./components/Examples";
 // import DownloadSection from "./components/DownloadSection";
@@ -29,11 +29,11 @@ export default {
   components: {
     Hero,
     BasicElements,
-    Inputs
+    Inputs,
     // CustomControls,
     // Navigation,
     // JavascriptComponents,
-    // Carousel,
+    Carousel
     //  Icons,
     // Examples,
     // DownloadSection
