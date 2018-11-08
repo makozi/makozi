@@ -1,4 +1,4 @@
-<h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/argon-design-system">Vue Argon Design System</a></h1>
+<!-- <h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/argon-design-system">Vue Argon Design System</a></h1>
 
 <p><img src="https://s3.amazonaws.com/creativetim_bucket/products/90/original/opt_argon_thumbnail.jpg" alt="Product Gif" /></p>
 
@@ -197,4 +197,4 @@
   <li>Dribbble: <a href="https://dribbble.com/creativetim">https://dribbble.com/creativetim</a></li>
   <li>Google+: <a href="https://plus.google.com/+CreativetimPage">https://plus.google.com/+CreativetimPage</a></li>
   <li>Instagram: <a href="https://www.instagram.com/CreativeTimOfficial">https://www.instagram.com/CreativeTimOfficial</a></li>
-</ul>
+</ul> -->
