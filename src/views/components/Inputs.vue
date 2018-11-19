@@ -102,7 +102,7 @@
                         <h2>Software  Developer</h2><br>
                         <h5>I code</h5><br>
                         <h6 class="text-primary">Languages I speak:</h6><br>
-                        <h6>HTML, CSS, JavaScript, MongoDB,Express, Vue.Js, Node.Js, </h6><br>
+                        <h6>HTML, CSS, JavaScript, MongoDB,Express, Vue.Js, React.js, Node.Js, </h6><br>
                         <h6 class="text-primary">Dev Tools:</h6><br>
                       <h5>CodeSandBox</h5><br>
                           <h5>Github</h5><br>
