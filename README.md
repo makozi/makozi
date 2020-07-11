@@ -9,4 +9,4 @@ The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories
 You can find me on [LinkedIn](https://www.linkedin.com/in/makozi-marizu-ibewiro/). 
 
 
-https://visitor-badge.glitch.me/badge?page_id=makozi.AfrikaansNMT
+![visitors](https://visitor-badge.glitch.me/badge?page_id=makozi.AfrikaansNMT)
