@@ -6,7 +6,7 @@ Glad to see you here! :smiley:
 
 
 
-Marizu-Ibewiro Makozi is a Software Engineer, Data Scientist and Machine Learning Engineer with experience working with data. He has done small and large scale projects ranging from predictive to descriptive modelling , recommender system and NLP. He is a certified Data Scientist and Machine Learning Engineer. He is proficient in building and deploying machine learning and deep learning models. He loves learning and solving challenges relating to data. Did I spike your interest? If yes, I look forward to connecting with you here on LinkedIn.
+Marizu-Ibewiro Makozi is a Software Engineer, DevOps Engineer with experience building large scale applications. He has done small and large scale projects. He loves learning and solving challenges. Did I spike your interest? If yes, I look forward to connecting with you here on LinkedIn.
 
 The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories) :octocat: represent my journey :running: . I love solving problems. 
 
@@ -19,6 +19,10 @@ Say Hi on Twitter [@marizu_makozi](https://twitter.com/marizu_makozi)! :heart: :
 
 
 Projects:
+
+[Hajid](https://hajid.netlify.com/): Hajid Logistics
+
+[Abuja International Airport Staff Multipurpose Co-operative Society Portal](https://smpcsabuja.com/): Abuja International Airport Staff Multipurpose Co-operative Society Portal
 
 [Coinblue]( https://coinblue.netlify.app/): Cryptocurrency Tracker
 
