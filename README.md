@@ -22,7 +22,7 @@ Projects:
 
 [Hajid](https://hajid.netlify.com/): Hajid Logistics
 
-[Abuja International Airport Staff Multipurpose Co-operative Society Portal](https://smpcsabuja.com/): Abuja International Airport Staff Multipurpose Co-operative Society Portal
+[SMPCS Portal](https://smpcsabuja.com/): Abuja International Airport Staff Multipurpose Co-operative Society Portal
 
 [Coinblue]( https://coinblue.netlify.app/): Cryptocurrency Tracker
 
