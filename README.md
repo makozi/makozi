@@ -1,6 +1,6 @@
 **Marizu-Ibewiro Makozi**  :fire:
 
-Software Engineer |Data Scientist | Machine Learning Engineer
+Software Engineer | DevOps Engineer
 
 Glad to see you here! :smiley:
 
