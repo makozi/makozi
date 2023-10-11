@@ -24,6 +24,8 @@ Projects:
 
 [SMPCS Portal](https://smpcsabuja.com/): Abuja International Airport Staff Multipurpose Co-operative Society Portal
 
+[Genzify Africa](https://genzifyafrica.com/): Piz-Pizza
+
 [Coinblue]( https://coinblue.netlify.app/): Cryptocurrency Tracker
 
 [Piz-Pizza](https://piz-pizza.vercel.app/): Piz-Pizza
