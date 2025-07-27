@@ -13,7 +13,7 @@ The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories
 
 [ReactGPT](https://chatgpt.com/g/g-6884fda9f8348191b9028da3388db939-reactgpt)
 
-[NextGPT]((https://chatgpt.com/g/g-688501160a7081918b226bf9426e992b-nextgpt)
+[NextGPT](https://chatgpt.com/g/g-688501160a7081918b226bf9426e992b-nextgpt)
 
 [ReactNativeGPT](https://chatgpt.com/g/g-6885028286c48191ba09568d0f197886-reactnativegpt)
 
