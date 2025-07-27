@@ -11,8 +11,13 @@ Experienced building large scale applications. He has done small and large scale
 
 The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories) :octocat: represent my journey :running: . I love solving problems. 
 
+[ReactGPT](https://chatgpt.com/g/g-6884fda9f8348191b9028da3388db939-reactgpt)
+
+[NextGPT]((https://chatgpt.com/g/g-688501160a7081918b226bf9426e992b-nextgpt)
+
+[ReactNativeGPT](https://chatgpt.com/g/g-6885028286c48191ba09568d0f197886-reactnativegpt)
+
 You can find me on [LinkedIn](https://www.linkedin.com/in/makozi-marizu-ibewiro/). 
- 
 
 
 Say Hi on Twitter [@marizu_makozi](https://twitter.com/marizu_makozi)! :heart: :speech_balloon:
