@@ -12,8 +12,7 @@ Experienced building large scale applications. He has done small and large scale
 The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories) :octocat: represent my journey :running: . I love solving problems. 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/makozi-marizu-ibewiro/). 
-
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/makozi/makozi)  [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/makozi/makozi?tab=followers)
+ 
 
 
 Say Hi on Twitter [@marizu_makozi](https://twitter.com/marizu_makozi)! :heart: :speech_balloon:
