@@ -5,7 +5,7 @@ Glad to see you here! :smiley:
 
 I love building tools for [developers](https://github.com/makozi),  [writing](https://medium.com/@marizu_makozi), [speaking](https://github.com/makozi),  [building developer communities](https://www.andela.com/andela-learning). 💥
 
-![makozi's Stats](https://github-readme-stats.vercel.app/api?username=makozi&theme=default&show_icons=true&hide_border=true&count_private=true)
+![makozi's Stats](https://github-readme-stats.vercel.app/api?username=makozi&theme=default&show_icons=true&hide_border=true&count_private=false)
 
 ![makozi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=makozi&theme=default&hide_border=true)
 
