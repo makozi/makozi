@@ -17,7 +17,9 @@ The green dots on my [GitHub profile](https://github.com/makozi?tab=repositories
 
 [ReactNativeGPT](https://chatgpt.com/g/g-6885028286c48191ba09568d0f197886-reactnativegpt)
 
-[@makozi/react-notify-stack](https://www.npmjs.com/package/@makozi/react-notify-stack): Animated notification system with stacked toasts and custom positions for React and Next.js.
+[@makozi/react-notify-stack](https://www.npmjs.com/package/@makozi/react-input-otp): Animated notification system with stacked toasts and custom positions for React and Next.js.
+
+[@makozi/react-input-otp](https://www.npmjs.com/package/@makozi/react-notify-stack): A stylized OTP (One Time Password) input component for React with auto-focus, paste support, and accessibility.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/makozi-marizu-ibewiro/). 
 
