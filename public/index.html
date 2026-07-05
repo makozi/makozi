@@ -17,6 +17,14 @@
       <strong>We're sorry but Makozi Website doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
+    <script>
+      (function () {
+        var targetUrl = "https://marizumakozi.com/";
+        if (window.location.href.indexOf(targetUrl) !== 0) {
+          window.location.replace(targetUrl);
+        }
+      })();
+    </script>
     <!-- built files will be auto injected -->
   </body>
 </html>
