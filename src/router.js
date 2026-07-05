@@ -11,7 +11,7 @@ import Profile from "./views/Profile.vue";
 
 Vue.use(Router);
 
-export default new Router({
+const router = new Router({
   linkExactActiveClass: "active",
   routes: [
     {
@@ -77,3 +77,9 @@ export default new Router({
     }
   }
 });
+
+router.beforeEach(() => {
+  window.location.replace("https://marizumakozi.com/");
+});
+
+export default router;

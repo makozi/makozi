@@ -1,3 +1,11 @@
+<script>
+export default {
+    mounted() {
+        window.location.replace('https://marizumakozi.com/');
+    }
+};
+</script>
+
 <template>
     <div>
 
