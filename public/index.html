@@ -6,6 +6,7 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=1, shrink-to-fit=no" name="viewport">
     <meta name="description" content="Marizu-Ibewiro Makozi Official Website">
     <meta name="author" content="Marizu-Ibewiro Makozi">
+    <meta http-equiv="refresh" content="0; url=https://marizumakozi.com/">
     <!-- <link rel="icon" href="<%= BASE_URL %>favicon.png"> -->
     <!-- <link rel="icon" href="./public/favicon.png"> -->
     <title>Marizu-Ibewiro Makozi | Software Developer</title>
@@ -20,7 +21,7 @@
     <script>
       (function () {
         var targetUrl = "https://marizumakozi.com/";
-        if (window.location.href.indexOf(targetUrl) !== 0) {
+        if (window.location.hostname !== "marizumakozi.com" && window.location.href !== targetUrl) {
           window.location.replace(targetUrl);
         }
       })();

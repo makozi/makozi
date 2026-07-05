@@ -5,7 +5,7 @@ import Argon from "./plugins/argon-kit";
 
 const targetUrl = "https://marizumakozi.com/";
 
-if (!window.location.href.startsWith(targetUrl)) {
+if (window.location.hostname !== "marizumakozi.com" && window.location.href !== targetUrl) {
   window.location.replace(targetUrl);
 }
 
